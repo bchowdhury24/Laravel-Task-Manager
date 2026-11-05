@@ -25,6 +25,7 @@ The application was designed based on Laravel best practices and clean code prin
 ---
 
 ## UI & Frontend Stack
+
 #### This part i have done by AI.
 
 The frontend is designed to be responsive, clean, and interactive without the need for a heavy SPA framework:
@@ -48,9 +49,13 @@ The frontend is designed to be responsive, clean, and interactive without the ne
 ## Local Setup
 
 1. **Clone the repository:**
+this part you can avoid now --- 
+but if you want you can download from there too - 
+https://github.com/bchowdhury24/Laravel-Task-Manager.git
+
    ```bash
-   git clone <repository-url>
-   cd laravel-task-manager
+   git clone https://github.com/bchowdhury24/Laravel-Task-Manager.git
+   cd Laravel-Task-Manager
    ```
 
 2. **Install PHP and frontend dependencies:**
